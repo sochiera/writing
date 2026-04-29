@@ -12,7 +12,7 @@ Przeczytała pierwsze zdanie:
 
 Od razu spojrzała na ostatnią linijkę, choć sama nie wiedziała dlaczego.
 
-**mysle ze to ospa ma wysypke**
+*mysle ze to ospa ma wysypke*
 
 Skarciła się w myślach. Musiała przeczytać wszystko. Nie miała pojęcia, co się dzieje, a ta kartka najwyraźniej była jedyną rzeczą, która mogła jej to wyjaśnić.
 
@@ -22,7 +22,7 @@ Wydruk był krótki i rzeczowy. Informował ją, że ma rozległą wiedzę i pot
 
 Niżej zaczynało się twarde, męskie pismo. Było niechlujne, miejscami pozbawione polskich znaków, z urwaną interpunkcją i słowami stawianymi za blisko siebie.
 
-**moj syn jest chory**
+*moj syn jest chory*
 
 Ich syn był chory.
 
@@ -32,7 +32,7 @@ Ktoś napisał, że jest jej przykro i że chce pomóc. Pytał, ile chłopiec ma
 
 Potem znowu pojawiło się tamto pierwsze, twarde pismo.
 
-**mysle ze to ospa ma wysypke**
+*mysle ze to ospa ma wysypke*
 
 Kobieta wzięła pióro do ręki.
 
@@ -60,4 +60,4 @@ Od razu spojrzała na ostatnią linijkę, choć sama nie wiedziała dlaczego.
 
 Była zapisana brzydkim, niechlujnym pismem.
 
-**ile to zazwyczaj trwa**
+*ile to zazwyczaj trwa*
