@@ -1,0 +1,20 @@
+# Exported documents
+*.doc
+*.docx
+*.odt
+*.rtf
+*.pdf
+*.epub
+*.mobi
+
+# Office/editor temporary files
+~$*
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
