@@ -24,9 +24,9 @@ Niżej zaczynało się twarde, męskie pismo. Było niechlujne, miejscami pozbaw
 
 *moj syn jest chory*
 
-Dalej pismo się zmieniało. Stało się ładniejsze, kobiece, spokojniejsze.
+Dalej pismo się zmieniało. Stało się ładniejsze, spokojniejsze.
 
-Ktoś napisał, że jest jej przykro i że chce pomóc. Pytał, ile chłopiec ma lat, jakie ma objawy, czy ma temperaturę, od kiedy choruje, czy normalnie pije i sika. Na końcu dopisał, że jeśli dzieje się coś bardzo złego, trzeba dzwonić pod 112.
+Ktoś napisał, że jest mu przykro i że chce pomóc. Pytał, ile chłopiec ma lat, jakie ma objawy, czy ma temperaturę, od kiedy choruje, czy normalnie pije i sika. Na końcu dopisał, że jeśli dzieje się coś bardzo złego, trzeba dzwonić pod 112.
 
 Potem znowu pojawiło się tamto pierwsze, twarde pismo.
 
@@ -34,7 +34,7 @@ Potem znowu pojawiło się tamto pierwsze, twarde pismo.
 
 Kobieta wzięła pióro do ręki.
 
-Kiedy przyłożyła stalówkę do papieru, rozpoznała nacisk dłoni, kształt liter, sposób stawiania ogonków. To wcześniejsze kobiece pismo było jej.
+Kiedy przyłożyła stalówkę do papieru, rozpoznała nacisk dłoni, kształt liter, sposób stawiania ogonków. To wcześniejsze ładne pismo było jej.
 
 Napisała, że przy ospie pojawiają się czerwone plamki, potem grudki i pęcherzyki z płynem. Że wysypka zwykle swędzi i może być na tułowiu, twarzy, głowie, a czasem też w buzi. Że trzeba pilnować gorączki, podawać płyny i nie pozwalać dziecku rozdrapywać zmian. Że paznokcie powinny być krótko obcięte. Że nie wolno podawać aspiryny. Że jeśli dziecko ma problemy z oddychaniem, jest bardzo senne, nie pije, ma sztywny kark albo bardzo wysoką gorączkę, trzeba natychmiast szukać pomocy.
 
