@@ -6,13 +6,13 @@ Nie wiedziała, gdzie jest. Nie pamiętała, jak się tu znalazła. Nie pamięta
 
 Na blacie leżała duża kartka A4. Na samej górze było coś wydrukowane. Niżej zaczynały się dopiski: najpierw twarde, niechlujne pismo, potem ładniejsze, kobiece, a na samym końcu znów to pierwsze.
 
-Przeczytała pierwsze zdanie:
+Na samym początku było napisane:
 
 **Przeczytaj to do końca, zanim coś zrobisz.**
 
-Od razu spojrzała na ostatnią linijkę, choć sama nie wiedziała dlaczego.
+Sama nie wiedziała dlaczego, ale zamiast tego przeczytała ostatnie zdanie:
 
-*mysle ze to ospa ma wysypke*
+*mysle ze to ospa bo ma wysypke*
 
 Skarciła się w myślach. Musiała przeczytać wszystko. Nie miała pojęcia, co się dzieje, a ta kartka najwyraźniej była jedyną rzeczą, która mogła jej to wyjaśnić.
 
@@ -30,7 +30,7 @@ Ktoś napisał, że jest mu przykro i że chce pomóc. Pytał, ile chłopiec ma 
 
 Potem znowu pojawiło się tamto pierwsze, twarde pismo.
 
-*mysle ze to ospa ma wysypke*
+*mysle ze to ospa bo ma wysypke*
 
 Kobieta wzięła pióro do ręki.
 
@@ -48,14 +48,12 @@ Kobieta siedziała przy biurku.
 
 Nie wiedziała, gdzie jest. Nie pamiętała, jak się tu znalazła. Nie pamiętała nawet własnego imienia.
 
-Na blacie leżała duża kartka A4. Na samej górze było coś wydrukowane, a niżej zaczynały się odręczne dopiski.
+Na blacie leżała duża kartka A4. Na samej górze było coś wydrukowane. Niżej zaczynały się ręczne dopiski: na przemian raz twarde, niechlujne pismo, a raz ładniejsze, kobiece.
 
-Przeczytała pierwsze zdanie:
+Na samym początku było napisane:
 
 **Przeczytaj to do końca, zanim coś zrobisz.**
 
-Od razu spojrzała na ostatnią linijkę, choć sama nie wiedziała dlaczego.
+Sama nie wiedziała dlaczego, ale zamiast tego przeczytała ostatnie zdanie:
 
-Była zapisana brzydkim, niechlujnym pismem.
-
-*ile to zazwyczaj trwa?*
+*jakie leki na ospe sa darmowe? podaj dane dla polski 2026*
