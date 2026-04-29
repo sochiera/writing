@@ -24,8 +24,6 @@ Niżej zaczynało się twarde, męskie pismo. Było niechlujne, miejscami pozbaw
 
 *moj syn jest chory*
 
-Ich syn był chory.
-
 Dalej pismo się zmieniało. Stało się ładniejsze, kobiece, spokojniejsze.
 
 Ktoś napisał, że jest jej przykro i że chce pomóc. Pytał, ile chłopiec ma lat, jakie ma objawy, czy ma temperaturę, od kiedy choruje, czy normalnie pije i sika. Na końcu dopisał, że jeśli dzieje się coś bardzo złego, trzeba dzwonić pod 112.
