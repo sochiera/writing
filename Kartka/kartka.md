@@ -4,7 +4,7 @@ Kobieta siedziała przy biurku.
 
 Nie wiedziała, gdzie jest. Nie pamiętała, jak się tu znalazła. Nie pamiętała nawet własnego imienia.
 
-Na blacie leżała duża kartka A4. Na samej górze było coś wydrukowane. Niżej zaczynały się dopiski: najpierw twarde, niechlujne pismo, potem ładniejsze, kobiece, a na samym końcu znów to pierwsze.
+Na blacie biurka był mały zegar, który wskazywal godzinę 19:51, wieczne pióro oraz biała kartka A4. Na samej górze było coś wydrukowane. Niżej zaczynały się dopiski: najpierw twarde, niechlujne pismo, potem ładniejsze, kobiece, a na samym końcu znów to pierwsze.
 
 Na samym początku było napisane:
 
@@ -44,11 +44,11 @@ Kiedy skończyła ostatnie zdanie, świat przestał istnieć.
 
 ---
 
-Kobieta siedziała przy biurku.
+Kobieta siedziała przy biurku. Zegar na ścianie wskazywał 19:52.
 
 Nie wiedziała, gdzie jest. Nie pamiętała, jak się tu znalazła. Nie pamiętała nawet własnego imienia.
 
-Na blacie leżała duża kartka A4. Na samej górze było coś wydrukowane. Niżej zaczynały się ręczne dopiski: na przemian raz twarde, niechlujne pismo, a raz ładniejsze, kobiece.
+Na blacie biurka był mały zegar, który wskazywal godzinę 19:52, wieczne pióro oraz biała kartka A4. Na samej górze było coś wydrukowane. Niżej zaczynały się ręczne dopiski: na przemian raz twarde, niechlujne pismo, a raz ładniejsze, kobiece.
 
 Na samym początku było napisane:
 
@@ -56,4 +56,4 @@ Na samym początku było napisane:
 
 Sama nie wiedziała dlaczego, ale zamiast tego przeczytała ostatnie zdanie:
 
-*jakie leki na ospe sa darmowe? podaj dane dla polski 2026*
+*za 2 tygodnie dziecko jedzie na obóz - zdazy wyzdrowiec?*
