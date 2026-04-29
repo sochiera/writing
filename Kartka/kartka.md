@@ -44,7 +44,7 @@ Kiedy skończyła ostatnie zdanie, świat przestał istnieć.
 
 ---
 
-Kobieta siedziała przy biurku. Zegar na ścianie wskazywał 19:52.
+Kobieta siedziała przy biurku.
 
 Nie wiedziała, gdzie jest. Nie pamiętała, jak się tu znalazła. Nie pamiętała nawet własnego imienia.
 
