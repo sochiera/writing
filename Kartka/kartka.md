@@ -58,4 +58,6 @@ Przeczytała pierwsze zdanie:
 
 Od razu spojrzała na ostatnią linijkę, choć sama nie wiedziała dlaczego.
 
+Była zapisana brzydkim, niechlujnym pismem.
+
 **ile to zazwyczaj trwa**
