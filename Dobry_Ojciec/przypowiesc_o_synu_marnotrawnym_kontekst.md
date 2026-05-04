@@ -116,7 +116,7 @@ Dla opowiadania oznacza to: scena nie dzieje sie w prywatnej kapsule rodzinnej. 
 
 **Porownanie przekladow:** SNP "zdjety litoscia"; NET "felt great affection/pity"; gr. `esplagchnisthe` oznacza glebokie poruszenie wspolczuciem. `Dramon` to "pobiegl". `Katephilesen` to pocalowal czule/intensywnie, nie chlodny znak formalny.
 
-**Kontekst kulturowy:** Skoro ojciec zobaczyl go z daleka, mozna z tego dramaturgicznie wnioskowac, ze wypatrywal albo mial zwyczaj patrzec ku drodze. Bieg starszego, zamoznego mezczyzny byl gestem niegodnym jego statusu: trzeba bylo podciagnac szate, pokazac nogi, wystawic sie na smiech. W interpretacji Kennetha Baileya ojciec moze tez przechwytywac syna, zanim zrobi to wies i jej mechanizmy zawstydzenia.
+**Kontekst kulturowy:** Skoro ojciec zobaczyl go z daleka, mozna z tego dramaturgicznie wnioskowac, ze wypatrywal albo mial zwyczaj patrzec ku drodze. Bieg starszego, zamoznego mezczyzny byl gestem niegodnym jego statusu: trzeba bylo podciagnac szate, pokazac nogi, wystawic sie na smiech. W interpretacji Kennetha Baileya ojciec moze tez przechwytywac syna, zanim zrobi to wies i jej mechanizmy zawstydzenia. Bailey opisuje w tym kontekscie mozliwy rytual "kezazah": kiedy Zyd stracil majatek domu w ziemi pogan, spolecznosc mogla dokonac ceremonii zerwania wiezow — tluczono gliniany dzban na rynku i wypowiadano formule wykluczenia, po ktorej czlowiek byl martwy dla wsi jak dla rodziny. Ojciec biegnacy jako pierwszy przejmuje inicjatywe, zanim zbiorowa opinia zdazy zareagowac. Chanan jako "wplywowy sasiad" jest naturalnym kandydatem do roli rzecznika tej reakcji. Bieg Eliaba go uprzedza.
 
 **Wniosek do opowiadania:** To centralna scena spoleczna. Ojciec nie tylko okazuje milosc synowi. On publicznie bierze na siebie pierwsze spojrzenia wsi. Zanim syn zostanie osadzony, zostaje objety.
 
@@ -226,7 +226,7 @@ Dla opowiadania oznacza to: scena nie dzieje sie w prywatnej kapsule rodzinnej. 
 
 **Porownanie przekladow:** SNP "Dziecko" dobrze oddaje czulosc `teknon`; UBG/NP "Synu". Angielskie przeklady najczesciej "Son" albo "Child". NET zaznacza, ze chodzi o stale bycie z ojcem i o to, ze dobra ojca sa jego.
 
-**Kontekst kulturowy:** Ojciec nie uniewaznia praw starszego. Przypomina mu, ze po podziale majatku to, co pozostalo, rzeczywiscie jest jego. Ale odpowiada nie tylko prawnie. Pierwsze slowo jest relacyjne: dziecko.
+**Kontekst kulturowy:** Ojciec nie uniewaznia praw starszego. Przypomina mu, ze po podziale majatku to, co pozostalo, rzeczywiscie jest jego. Ale odpowiada nie tylko prawnie. Pierwsze slowo jest relacyjne: dziecko. Kluczowy szczegol prawny: starszy syn otrzymal swoj udzial juz w chwili podzial opisanego w w. 12. Jego pozniejsza skarga "wszystko twoje jest moje" jest wiec emocjonalnie prawdziwa, ale prawnie nieprecyzyjna — jego czesc juz dostal. Moze to znaczyc, ze nigdy psychicznie nie odlaczyl sie od ojca i nie traktowal swego udzialu jako wlasnosci odrecznej. Zycie "jak sluga" w tym domu moglo byc jego sposobem na niezabranie tego, co mu sie nalezalo — jakby bral udzial oznaczal zerwanie z ojcem, tak samo jak brat to uczynil.
 
 **Wniosek do opowiadania:** To zdanie powinno bolec. Starszy mial wszystko, ale nie umial tego przezyc jako daru. Byl wspolwlascicielem domu, a czul sie jak niewolnik.
 
@@ -270,6 +270,14 @@ To wazna obserwacja spoleczna. Dobry dom poznaje sie po tym, jak traktuje ludzi 
 
 Mlodszy moze byc nazwany: rozrzutnikiem, trupem, znalezionym synem, utracjuszem, bratem, pasozytem, ocalonym. Starszy moze byc nazwany: wiernym, niewolniczym, skrzywdzonym, twardym, zgubionym przy progu. Ojciec probuje narzucic spolecznosci interpretacje leczaca: "byl martwy, ozyl; byl zgubiony, odnalazl sie".
 
+### 8. Malchus i polityka wewnatrzdomowa
+
+Zarządca stoi miedzy dwiema lojalnosci: Eliab jest jego panem teraz, Neriel bedzie nim jutro. Kazda decyzja Eliaba, ktora nie zostala uzgodniona ze starszym synem, ustawia Malchusa w trudnym miejscu — wykona polecenie, ale wie, ze starszy pamiecta. Podanie pierscienia Joramowi jest dla Malchusa decyzja polityczna, nie tylko posluszeństwem: pierscien oznacza prawo do reprezentowania domu, a Neriel o tej chwili nie wiedzial i nie wyrazil na nia zgody. Dom to nie tylko emocje i religia. To tez hierarchia, ktora musi dzialac po uczcie.
+
+### 9. Czas jako bohater ukryty
+
+Przypowiesc nie podaje, ile czasu uplynelo miedzy odejsciem a powrotem syna. Ale dla opowiadania czas jest kluczowy: dwa sezony zbiorow bez brata zmieniaja hierarchie wsi, starzeja Ase i Noemie, buduja rachunki, ktore Neriel nosi sam. Im dluzej trwala nieobecnosc, tym wiekszy jest koszt powrotu — i tym wiekszy jest koszt tego, ze Neriel przez te lata ani razu nie odebrarl swojego udzialu emocjonalnie. Czas uwidacznia, ze obaj bracia byli zagubieni od dawna, a nie tylko od momentu, gdy tekst ich pokazuje.
+
 ## Pomysly dramaturgiczne
 
 - **Otworz od domu, nie od grzechu.** Pokaz pracownikow, rytm pola, porzadek posilkow, spojrzenia sasiadow.
@@ -280,6 +288,10 @@ Mlodszy moze byc nazwany: rozrzutnikiem, trupem, znalezionym synem, utracjuszem,
 - **Szata, pierscien i sandaly potraktuj jak publiczny komunikat.** Sludzy nie ubieraja tylko ciala. Ubieraja status.
 - **Starszego syna napisz z empatia.** On nie jest czarnym charakterem. Jest czlowiekiem, ktory byl lojalny, ale nie czul sie kochany.
 - **Zakoncz na progu.** Otwarte zakonczenie jest wierne tekstowi i bardzo ludzkie.
+- **Czas niech bedzie widzialny.** Dwa sezony zbiorow, starszy Asa, pola wymagajace nowych decyzji, rachunki pisane inna reka. Nieobecnosc Jorama powinna zostawiac slady, nie tylko wspomniane slowa.
+- **Joram niech smierdzi swiniami.** Fizycznie, zanim jeszcze ojciec go objal. Kilka kobiet przy studni moze odwrocic wzrok. Ten detal nie jest metafora — jest dowodem, ze powrot jest prawdziwy, nie symboliczny.
+- **Malchus niech sie waha przy pierscieni — i niech to byc widoczne.** Ten gest jest decyzja polityczna, nie tylko emocjonalna. Czytelnik powinien to czuc zanim narrator to powie.
+- **Neriel nie "odebrarl swojego udzialu" psychicznie.** To paradoks, ktory sila jego skargi i obnaza jej pustke jednoczesnie: mial wszystko, czego Joram nie mial, i nie wiedzial, ze to ma.
 
 ## Bibliografia i zrodla
 
