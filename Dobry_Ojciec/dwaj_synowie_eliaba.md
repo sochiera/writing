@@ -4,9 +4,9 @@
 
 Dom Eliaba budził się wcześniej niż słońce.
 
-Najpierw odzywały się osły w zagrodzie, potem skrzypiała studnia, gdy Asa, najmłodszy ze sług, spuszczał wiadro z takim zapałem, jakby od jego ramion zależał porządek świata. Z kuchni Noemi dochodził zapach placków pieczonych na kamieniu. W stajni parskały woły, a przy bramie Malchus, zarządca, liczył ludzi, narzędzia i worki z ziarnem, zanim dzień zdążył na dobre położyć rękę na polach.
+Najpierw odzywały się osły w zagrodzie, potem skrzypiała studnia, gdy Asa, najmłodszy ze sług, spuszczał wiadro z takim zapałem, jakby od jego ramion zależał porządek świata. Z kuchni Noemi dochodził zapach placków pieczonych na kamieniu. W stajni parskały woły, a przy bramie Malchus, zarządca, liczył ludzi, narzędzia i worki z ziarnem, zanim słońce zdążyło na dobre wejść nad wzgórza.
 
-Neriel lubił tę godzinę. Lubił, gdy wszystko miało swoje miejsce: jarzmo na kołku, miara jęczmienia przy ścianie, robotnicy przydzieleni do właściwych zagonów. Stał wtedy na dziedzińcu z tabliczką rachunkową w dłoni i czuł, że dom oddycha przez niego.
+Neriel lubił tę godzinę. Lubił, gdy wszystko miało swoje miejsce: jarzmo na kołku, miara jęczmienia przy ścianie, robotnicy przydzieleni do właściwych zagonów. Stał wtedy na dziedzińcu z tabliczką rachunkową w dłoni i czuł, że jest osią, wokół której reszta dnia się porządkuje.
 
 Malchus podszedł do niego z wolna.
 
@@ -16,17 +16,17 @@ Malchus podszedł do niego z wolna.
 
 Malchus uśmiechnął się krótko, ale nie odpowiedział. Spojrzał ponad jego ramieniem. Neriel odwrócił głowę i zobaczył ojca przy bramie.
 
-Eliab rozmawiał z Mattanem, jakby ten nie był najemnikiem, który mógł jutro pracować u innego gospodarza, lecz człowiekiem z krwi i kości, którego ból miał znaczenie. Słuchał cierpliwie, z ręką opartą na lasce, a gdy Mattan podwinął szatę i pokazał kolano, ojciec pochylił się bez wahania.
+Eliab rozmawiał z Mattanem, jakby ten nie był najemnikiem, który mógł jutro pracować u innego gospodarza, lecz sąsiadem, przy którym warto się zatrzymać. Słuchał cierpliwie, z ręką opartą na lasce, a gdy Mattan podwinął szatę i pokazał kolano, ojciec pochylił się bez wahania.
 
 -- Dajcie mu dziś pracę przy młóceniu -- powiedział potem do Malchusa. -- I niech dostanie więcej chleba. Jeśli człowiek ma pracować, niech ma siłę stać.
 
 Neriel zacisnął palce na tabliczce.
 
--- Jeśli każdy ból będzie wart dodatkowego chleba, chleb zacznie mówić zamiast prawa -- mruknął.
+-- Jeśli każde utyskiwanie przyniesie więcej niż umowa, nikt nie będzie wiedział, czego się trzymać -- mruknął.
 
 Ojciec usłyszał. Neriel poznał to po tym, że Eliab nie odpowiedział od razu. Zawsze najpierw milczał, jakby ważył nie słowa syna, lecz miejsce, z którego przyszły.
 
--- Prawo nie głodnieje, synu -- powiedział w końcu. -- Ludzie tak.
+-- Umowy trzymają ludzi przy pracy, synu -- powiedział w końcu. -- Dobroć trzyma ich przy domu.
 
 Neriel odwrócił wzrok ku polom. Tam przynajmniej ziemia mówiła prosto: kto orał, zbierał; kto zaniedbał, tracił.
 
@@ -78,9 +78,9 @@ Joram wstał, strzepując kurz z szaty.
 
 -- Ty kiedyś będziesz dobrym gospodarzem, bracie. Ludzie będą chodzili prosto nawet we śnie.
 
-Neriel chciał odpowiedzieć ostro, ale Joram już odszedł ku studni. Patrzył za nim i czuł, że kocha ten dom tak mocno, iż gotów byłby ścisnąć go w pięści, aby nic nie wypadło.
+Neriel chciał odpowiedzieć ostro, ale Joram już odszedł ku studni. Patrzył za nim i czuł, że kocha ten dom tak mocno, iż gotów byłby zamknąć każdą bramę i każde okno, żeby nic więcej nie wyciekło.
 
-Nie pomyślał wtedy, że w zaciśniętej dłoni także można coś zgnieść.
+Nie pomyślał wtedy, że dom bez powietrza też umiera.
 
 ## Rozdział 2
 
@@ -596,13 +596,13 @@ Asa przełknął ślinę. Neriel zauważył, że sługa jest szczęśliwy i prze
 
 -- Twój brat wrócił.
 
-Słowa uderzyły go mocniej, niż powinny. Twój brat. Jakby Asa miał prawo przypominać mu więź, którą Joram porzucił razem z ziemią, wołami i twarzą ojca.
+Słowa uderzyły go mocniej, niż powinny. Twój brat. Jakby Asa miał prawo przypominać mu więź, którą Joram porzucił razem z ziemią, wołami i spokojem tego domu.
 
 -- I dlatego ta uczta?
 
 -- Twój ojciec kazał zabić dorodne cielę. Cieszy się, że odzyskał go zdrowego.
 
-Zdrowego. Neriel prawie się roześmiał. Zdrowy był dom, zanim Joram włożył w niego nóż swojej wolności. Zdrowe były rachunki, zanim trzeba było spieniężyć część życia Eliaba. Zdrowa była winnica, zanim Safan odmierzył ją cudzą miarą.
+Zdrowego. Neriel prawie się roześmiał. Zdrowy był dom, zanim Joram wyciął z niego swój udział i odszedł. Zdrowe były rachunki, zanim trzeba było spieniężyć część życia Eliaba. Zdrowa była winnica, zanim Safan odmierzył ją cudzą miarą.
 
 -- Odejdź -- powiedział.
 
