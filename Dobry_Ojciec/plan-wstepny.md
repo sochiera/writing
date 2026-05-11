@@ -1,65 +1,108 @@
-1. (perspektywa starszego)
-Lk 15,11 "pewien czlowiek mial dwoch synow"  
+# Plan opowiadania: Dobry ojciec
+*Na podstawie Łk 15,11-32*
 
-2. (perspektywa młodszego)
-Lk 15,12
+**Format:** 16 sekcji, każda oddzielona przerywnikiem (`---`).
+**Długość sekcji:** ok. 100–600 słów każda.
 
+**Postacie:**
+- **Eliab** — ojciec
+- **Neriel** — starszy syn
+- **Joram** — młodszy syn
+- **Malchus** — zarządca domu
+- **Chanan** — wpływowy sąsiad
 
-3. (perspektywa starszego)
-Młodszy spieniężył wszystko - patrzą na to, jak sprzedają mienie
+---
 
-4. wyjechał daleko, prowadził rozwiązły tryb życia  (perspektywa młodszego)
+## Sekcja 1 — perspektywa Neriela
 
-5. jak wyglądał dom i co czuł ojciec i starszy, kiedy młodzego nie było (perspektywa starszego)
+Łk 15,11. Dom, pole, codzienność gospodarstwa. Obaj synowie i ojciec są razem.
 
-6. roztrwonił majątek. 14Gdy wszystko stracił, w kraju, gdzie przebywał, 
- nastał wielki głód. Wówczas i jemu zaczął doskwierać niedostatek. 
- 15Wynajął się zatem u jednego z obywateli tego kraju, który wysłał go do swoich 
- wiejskich posiadłości i zatrudnił przy wypasie świń. 
- 16Pracując tam, pragnął najeść się strąków, którymi tuczono świnie, lecz nikt mu nie pozwalał.
- (perspektywa młodszego)
+---
 
-7. ciąg dalszy  jak wyglądał dom i co czuł ojciec i starszy, kiedy młodzego nie było (perspektywa starszego)
- można pokazać, że ojciec traktował najemników lepiej w innym kraju traktowali młodszego syna 
- 
-8. (perspektywa młodszego)
- Wtedy oprzytomniał: Iluż to najemników mego ojca — pomyślał — ma chleba pod dostatkiem, a ja tu z głodu ginę. 18Wracam do ojca.
+## Sekcja 2 — perspektywa Jorama
 
-9. (perspektywa starszego)
-starszy widzi, że ojciec stoi w progu i wypatruje młodszego (często tak robił), kiedy idzie pracować w polu
+Łk 15,12. Joram prosi ojca o swoją część majątku. Ojciec dzieli dorobek.
 
-10. 
-"Powiem mu: Ojcze, zgrzeszyłem względem Boga oraz względem ciebie. 19Nie jestem już godny nazywać się twoim synem.
-Przyjmij mnie do pracy jako jednego z twoich najemników. 20Wstał więc i ruszył w drogę."(perspektywa młodszego)
-Niech ta część mówi o tym, jak młody ćwiczył przemówienie i co myślał w trakcie drogi i o pierwszej chwili spotkania
- "Gdy był jeszcze daleko, ojciec zobaczył go i zdjęty litością wybiegł naprzeciw, rzucił mu się na szyję i ucałował go."
+---
 
+## Sekcja 3 — perspektywa Neriela
 
-11. (perspektywa starszego)
-słudzy przychodzą po starszego, bo brat wrócił.
+Łk 15,13a. Joram spieniężył mienie i szykuje się do wyjazdu.
 
-12. (perspektywa młodszego)
-21Ojcze — rozpoczął syn — zgrzeszyłem względem Boga oraz względem ciebie. Nie jestem już godny nazywać się twoim synem. 
-22Ojciec zaś zwrócił się do sług: Przynieście czym prędzej najlepszą szatę i ubierzcie go; włóżcie pierścień na jego rękę 
-i sandały na nogi, 23wybierzcie też dorodne cielę, przyrządźcie na ucztę, zasiądźmy do stołu i uczcijmy to, 
-24że ten oto mój syn był martwy, a jednak ożył, był zgubiony, lecz odnalazł się. I zaczęto się bawić.
- 
-13. (perspektywa starszego)
- Gdy wracał i był blisko domu, usłyszał muzykę i odgłosy tańców. 
- 26Przywołał więc jednego z młodych służących i zapytał, co się dzieje. 
- 27Wrócił twój brat! — usłyszał. — Twój ojciec kazał zabić dorodne cielę i cieszy się, że odzyskał go zdrowego. 
-Starszy syn wpadł w gniew. Nawet nie chciał wejść do domu.
+---
 
-14. (perspektywa młodszego)
-Wtedy ojciec wyszedł i zaczął go uspokajać.
+## Sekcja 4 — perspektywa Jorama
 
-15. (perspektywa starszego)
-Ale on był nieprzejednany: Służę ci od lat — wypominał — szanuję każdy twój rozkaz,
-a ty nigdy nie dałeś mi choćby koźlątka, bym się zabawił z przyjaciółmi. 
-30Ledwie jednak zjawił się ten twój syn, który z dziwkami roztrwonił twój dorobek, natychmiast kazałeś zabić dorodnego cielaka.
- 31Wtedy ojciec powiedział do niego: Dziecko, ty zawsze jesteś ze mną i wszystko moje jest twoje. 
-32To dobrze, że bawimy się i cieszymy, bo widzisz, ten twój brat był martwy, a jednak ożył, był zgubiony, lecz odnalazł się.
+Łk 15,13b. Daleki kraj. Joram wydaje pieniądze, prowadzi rozwiązłe życie.
 
-Ta część opowiadania kończy się dobrze. Starszy zaczyna rozumieć, że ojciec go kocha i przyjmuje jego miłość.
+---
 
-16. - scena końcowa - perspektywa młodszego - wszyscy są razem i jest ok. Obaj bracia czują, że ojciec ich kocha i że są w najlepszym miejscu
+## Sekcja 5 — perspektywa Neriela
+
+Dom po odejściu Jorama. Pierwsze miesiące bez brata — życie ojca, Neriela i domu.
+
+---
+
+## Sekcja 6 — perspektywa Jorama
+
+Łk 15,14–16. Głód. Joram traci wszystko, najmuje się do pasienia świń, nie ma co jeść.
+
+---
+
+## Sekcja 7 — perspektywa Neriela
+
+Dom po odejściu Jorama. Dalszy czas bez brata — jak funkcjonuje ojciec i gospodarstwo.
+
+---
+
+## Sekcja 8 — perspektywa Jorama
+
+Łk 15,17–19. Joram oprzytomniał. Układa przemówienie i rusza w drogę powrotną.
+
+---
+
+## Sekcja 9 — perspektywa Neriela
+
+Neriel idzie do pola i widzi ojca wypatrującego w bramie.
+
+---
+
+## Sekcja 10 — perspektywa Jorama
+
+Łk 15,20–21. Joram wraca. Ojciec wybiega naprzeciw, obejmuje go. Joram zaczyna przemówienie.
+
+---
+
+## Sekcja 11 — perspektywa Neriela
+
+Łk 15,25–26. Neriel wraca z pola. Sługa mówi mu, że brat wrócił.
+
+---
+
+## Sekcja 12 — perspektywa Jorama
+
+Łk 15,22–24. Ojciec każe przynieść szatę, pierścień, sandały. Uczta.
+
+---
+
+## Sekcja 13 — perspektywa Neriela
+
+Łk 15,25–28a. Neriel słyszy muzykę, dowiaduje się co się stało, wpada w gniew i nie wchodzi do domu.
+
+---
+
+## Sekcja 14 — perspektywa Jorama
+
+Łk 15,28b. Ojciec wychodzi do Neriela. Joram zostaje przy uczcie.
+
+---
+
+## Sekcja 15 — perspektywa Neriela
+
+Łk 15,29–32. Neriel skarży się ojcu. Ojciec odpowiada. Neriel zaczyna rozumieć.
+
+---
+
+## Sekcja 16 — perspektywa Jorama
+
+Scena końcowa. Neriel wraca do domu. Obaj bracia są z ojcem.
