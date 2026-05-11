@@ -17,11 +17,11 @@
 
 **Łk 15,11 — Dom, pole, codzienność.**
 
-Otwieramy na konkretny poranek: Natan budzi się przed świtem i już wie, co ma robić — bez rozkazu, bez zachęty. Widzimy przez jego oczy dom Eliaba: ziemię, którą zna każdą grudą, robotników, których sam przyucza, Malchusa liczącego zapasy przy lampie oliwnej.
+Otwieramy na konkretny poranek: Natan budzi się przed świtem i już wie, co ma robić — bez rozkazu, bez zachęty. Widzimy przez jego oczy dom Eliaba: ziemię, którą zna na wylot, robotników, których sam przyucza, Malchusa pochylonego nad rachunkami przy jeszcze niedogasłej lampie.
 
 Narrator opisuje kontekst: w ówczesnej kulturze dom to wspólnota, a praca na rzecz rodziny to coś więcej niż obowiązek — to tożsamość. Natan jest z tego dumny. Jego miłość do ojca i do ziemi jest prawdziwa, ale zbudowana na fundamencie „zasługiwania" — jakby każdy dobrze przepracowany dzień był kolejną cegiełką w murze, który ma go wreszcie chronić przed poczuciem, że jest mniej ważny niż Joram. Narrator mówi to wprost: Natan czuł, że miłość ojca trzeba zdobywać.
 
-Na końcu sceny: Joram przychodzi z pola. Bracia rzucają kilka zdań. Atmosfera jest spokojna, ale pod nią — napięcie. Joram patrzy gdzieś dalej niż horyzont.
+Na końcu sceny: Joram wraca z pola. Bracia rzucają kilka zdań. Atmosfera jest spokojna, ale pod nią — napięcie. Joram odpowiada krótko i milknie. Myślami jest już gdzie indziej.
 
 ---
 
@@ -29,7 +29,7 @@ Na końcu sceny: Joram przychodzi z pola. Bracia rzucają kilka zdań. Atmosfera
 
 **Łk 15,12 — Joram prosi o swój dział. Ojciec dzieli dorobek.**
 
-Joram nie jest złym człowiekiem — narrator podkreśla to od razu. Jest młody i przekonany, że życie czeka gdzie indziej. Ma w sobie coś, co nie jest chciwością, ale niecierpliwością: chce zobaczyć, czy poradzi sobie sam. W tamtej kulturze prośba o dziedzictwo za życia ojca to jednak coś bliskiego życzeniu mu śmierci — narrator wyjaśnia to bez owijania w bawełnę, bo czytelnik musi rozumieć, jak bardzo Joram przekracza granicę.
+Joram nie jest złym człowiekiem — narrator podkreśla to od razu. Jest młody i przekonany, że życie czeka gdzie indziej. Ma w sobie coś, co nie jest chciwością, ale niecierpliwością: chce zobaczyć, czy poradzi sobie sam. W tamtej kulturze prośba o dziedzictwo za życia ojca to jednak coś bliskiego życzeniu mu śmierci — narrator wyjaśnia to bez owijania w bawełnę, bo czytelnik musi rozumieć, jak bardzo Joram przekracza granicę. Narrator dodaje też: według prawa starszy syn dostawał dwie trzecie majątku, młodszy jedną trzecią. Joram bierze swoje — i tylko swoje. Część Natana zostaje.
 
 Scena rozmowy z ojcem. Joram mówi mało — boi się, że jeśli powie więcej, cofnie się. Eliab słucha długo. Joram oczekiwał kłótni — a jej nie ma. Ojciec nie krzyczy, nie odwraca się plecami. Joram nie wie, co z tym zrobić.
 
@@ -63,7 +63,7 @@ Z czasem pieniądze stają się językiem, którym Joram kupuje towarzystwo. Nar
 
 Życie idzie dalej. Gospodarstwo funkcjonuje; Malchus i Natan dźwigają ciężar, który wcześniej rozłożony był na troje. Eliab pracuje obok nich, ale jest wyraźnie zmieniony — coś w nim cicho szuka Jorama.
 
-Narrator opisuje wieczory: Eliab siada przy bramie po zachodzie słońca i patrzy w kierunku drogi. Robi to regularnie. Natan to widzi i nie rozumie. Czuje coś między rozżaleniem a litością: Joram odszedł, a ojciec wciąż za nim tęskni bardziej niż za Natan, który jest tutaj. Narrator mówi wprost: tak to Natan czuł.
+Narrator opisuje wieczory: Eliab siada przy bramie po zachodzie słońca i patrzy w kierunku drogi. Robi to regularnie. Natan to widzi i nie rozumie. Czuje coś między rozżaleniem a litością: Joram odszedł, a ojciec wciąż za nim tęskni bardziej niż za Natanem, który jest tutaj. Narrator mówi wprost: tak to Natan czuł.
 
 ---
 
@@ -95,7 +95,7 @@ Eliab wciąż siada przy bramie. Natan przestał pytać dlaczego. Chanan, sąsia
 
 Narrator opisuje moment „opamiętania się" — nie jako nagłe objawienie, ale jako stopniowe, bolesne przebudzenie. Joram zaczyna porównywać: najemnicy jego ojca mają co jeść. On ginie z głodu w obcym kraju.
 
-Narrator wchodzi głębiej: to nie jest tylko kalkulacja przeżycia. Joram po raz pierwszy naprawdę myśli o tym, co zrobił ojcu. Nie tylko sobie — ojcu. Widzi scenę podziału majątku z innej strony i robi mu się wstyd. Prawdziwy wstyd, nie performatywny.
+Narrator wchodzi głębiej: to nie jest tylko kalkulacja przeżycia. Joram po raz pierwszy naprawdę myśli o tym, co zrobił ojcu. Nie tylko sobie — ojcu. Widzi scenę podziału majątku z innej strony i robi mu się wstyd. Wstyd, który nie szuka słuchacza.
 
 Joram układa w głowie przemówienie — narrator cytuje je w całości i komentuje: Joram mówi, że nie jest już godny być synem. Narrator zaznacza, że to szczere. Joram nie wraca po przysługę — wraca, bo nie ma już gdzie indziej iść, i bo tęskni za czymś, co zniszczył. Wstaje i rusza. Każdy krok jest ciężki.
 
@@ -127,7 +127,7 @@ Narrator: Eliab nie pyta, gdzie były pieniądze. Nie pyta, jak długo. Joram cz
 
 **Łk 15,25–26 — Natan wraca z pola. Sługa mówi mu, że brat wrócił.**
 
-Późne popołudnie. Natan wraca zmęczony i brudny. Przy drodze mija jednego ze sług, który mówi tylko tyle: brat twój wrócił.
+Późne popołudnie. Natan pracuje w polu. Jeden ze sług przybiega do niego i mówi tylko tyle: brat twój wrócił.
 
 Narrator opisuje, co dzieje się w Natanie w tej jednej chwili: coś, co nie jest ani radością, ani złością, ale oboma naraz. Joram żyje — i to przynosi ulgę, której Natan się nie spodziewał. A zaraz za tą ulgą — stare zranienie, które nie zniknęło. Natan idzie dalej w stronę domu i jeszcze nie wie, co zrobi, gdy dotrze do drzwi.
 
@@ -151,9 +151,9 @@ Natan wraca z pola i już z daleka słyszy muzykę. Zatrzymuje pierwszego napotk
 
 Narrator wchodzi głęboko w Natana. Jego gniew jest prawdziwy i zrozumiały — narrator go nie potępia, ale też go nie gloryfikuje. Pokazuje, skąd pochodzi: z lat, w których Natan czuł się niewidzialny. Z każdego wieczoru, gdy ojciec siedział przy bramie i patrzył w stronę drogi, którą odszedł Joram.
 
-Natan stoi przed drzwiami i nie wchodzi. Mówi do siebie — nie krzyczy, ale myśl jest twarda: pracowałem, zostałem, byłem tu przez cały czas. I co? I uczta dla niego.
+Natan stoi przed drzwiami i nie wchodzi. Mówi do siebie — nie krzyczy, ale myśl jest twarda: pracowałem, zostałem, byłem tu przez cały czas. I co? I tuczne cielę dla niego. Narrator tłumaczy: tuczne cielę zarzynano tylko przy najważniejszych okazjach — ślubach, przyjęciu gości godnych szczególnej czci. Nie był to gest codzienny. Ojciec wyciągnął na stół to, czego nie wyciągał nigdy. Natan o tym wie.
 
-Narrator: Natan nie nienawidzi brata. Natan nie rozumie ojca. To różnica. I to ta drugie nierozumienie boli bardziej.
+Narrator: Natan nie nienawidzi brata. Natan nie rozumie ojca. To różnica. I to drugie nierozumienie boli bardziej.
 
 W głowie Natana układa się przekonanie, które nosił od dawna, a teraz nabiera kształtu: ojciec kocha Jorama bardziej. Inaczej skąd ta uczta? Inaczej skąd ta radość? Natan był tu przez cały czas — i nie było żadnej uczty. Narrator mówi wprost: tak to Natan czuje, stojąc przed zamkniętymi drzwiami, za którymi gra muzyka.
 
@@ -183,7 +183,7 @@ Ojciec mówi dalej: brat był martwy, a żyje. Zaginął, a się znalazł.
 
 Narrator: Natan stoi i po raz pierwszy dopuszcza myśl, której przez lata nie chciał myśleć — że ojciec go kocha. Nie za pracę. Nie za to, że został. Po prostu kocha. Że uczta dla Jorama nie była dowodem, że Natan jest mniej wart — była czymś zupełnie innym. Natan nie wie jeszcze, jak żyć z tą myślą. Ale ją dopuszcza.
 
-Eliab nie czeka na odpowiedź. Wyciąga rękę. Narrator: to samo wyjście naprzeciw, co wtedy przy drodze. Eliab nie czeka, aż ludzie zrobią właściwy krok — on robi swój pierwszy.
+Eliab nie czeka na odpowiedź. Wyciąga rękę. Narrator: to samo wyjście naprzeciw, co wtedy przy drodze. Eliab znowu robi pierwszy krok.
 
 ---
 
