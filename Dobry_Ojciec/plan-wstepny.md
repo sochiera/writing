@@ -6,14 +6,14 @@
 
 **Postacie:**
 - **Eliab** — ojciec
-- **Neriel** — starszy syn
+- **Natan** — starszy syn
 - **Joram** — młodszy syn
 - **Malchus** — zarządca domu
 - **Chanan** — wpływowy sąsiad
-
+- inne (todo)
 ---
 
-## Sekcja 1 — perspektywa Neriela
+## Sekcja 1 — perspektywa Natana
 
 Łk 15,11. Dom, pole, codzienność gospodarstwa. Obaj synowie i ojciec są razem.
 
@@ -25,7 +25,7 @@
 
 ---
 
-## Sekcja 3 — perspektywa Neriela
+## Sekcja 3 — perspektywa Natana
 
 Łk 15,13a. Joram spieniężył mienie i szykuje się do wyjazdu.
 
@@ -37,9 +37,9 @@
 
 ---
 
-## Sekcja 5 — perspektywa Neriela
+## Sekcja 5 — perspektywa Natana
 
-Dom po odejściu Jorama. Pierwsze miesiące bez brata — życie ojca, Neriela i domu.
+Dom po odejściu Jorama. Pierwsze miesiące bez brata — życie ojca, Natana i domu.
 
 ---
 
@@ -49,7 +49,7 @@ Dom po odejściu Jorama. Pierwsze miesiące bez brata — życie ojca, Neriela i
 
 ---
 
-## Sekcja 7 — perspektywa Neriela
+## Sekcja 7 — perspektywa Natana
 
 Dom po odejściu Jorama. Dalszy czas bez brata — jak funkcjonuje ojciec i gospodarstwo.
 
@@ -61,9 +61,9 @@ Dom po odejściu Jorama. Dalszy czas bez brata — jak funkcjonuje ojciec i gosp
 
 ---
 
-## Sekcja 9 — perspektywa Neriela
+## Sekcja 9 — perspektywa Natana
 
-Neriel idzie do pola i widzi ojca wypatrującego w bramie.
+Natan idzie do pola i widzi ojca wypatrującego w bramie.
 
 ---
 
@@ -73,9 +73,9 @@ Neriel idzie do pola i widzi ojca wypatrującego w bramie.
 
 ---
 
-## Sekcja 11 — perspektywa Neriela
+## Sekcja 11 — perspektywa Natana
 
-Łk 15,25–26. Neriel wraca z pola. Sługa mówi mu, że brat wrócił.
+Łk 15,25–26. Natan wraca z pola. Sługa mówi mu, że brat wrócił.
 
 ---
 
@@ -85,24 +85,24 @@ Neriel idzie do pola i widzi ojca wypatrującego w bramie.
 
 ---
 
-## Sekcja 13 — perspektywa Neriela
+## Sekcja 13 — perspektywa Natana
 
-Łk 15,25–28a. Neriel słyszy muzykę, dowiaduje się co się stało, wpada w gniew i nie wchodzi do domu.
+Łk 15,25–28a. Natan słyszy muzykę, dowiaduje się co się stało, wpada w gniew i nie wchodzi do domu.
 
 ---
 
 ## Sekcja 14 — perspektywa Jorama
 
-Łk 15,28b. Ojciec wychodzi do Neriela. Joram zostaje przy uczcie.
+Łk 15,28b. Ojciec wychodzi do Natana. Joram zostaje przy uczcie.
 
 ---
 
-## Sekcja 15 — perspektywa Neriela
+## Sekcja 15 — perspektywa Natana
 
-Łk 15,29–32. Neriel skarży się ojcu. Ojciec odpowiada. Neriel zaczyna rozumieć.
+Łk 15,29–32. Natan skarży się ojcu. Ojciec odpowiada. Natan zaczyna rozumieć.
 
 ---
 
 ## Sekcja 16 — perspektywa Jorama
 
-Scena końcowa. Neriel wraca do domu. Obaj bracia są z ojcem.
+Scena końcowa. Natan wraca do domu. Obaj bracia są z ojcem.
