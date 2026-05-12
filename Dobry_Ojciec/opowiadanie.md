@@ -1,5 +1,12 @@
 # Dobry Ojciec
 
+<h3 align="center">I</h3>
+
+<h4 align="center">Natan</h4>
+
+
+
+
 Natan budził się zawsze pierwszy — przed sługami, przed śpiewem ptaków, przed świtem. Nie dlatego, że ktoś tego od niego wymagał. Po prostu wiedział, co trzeba zrobić, i nie widział powodu, żeby czekać.
 
 Tego ranka wstał, gdy niebo było jeszcze granatowe. Narzucił płaszcz, wyszedł na zewnątrz i przez chwilę stał nieruchomo, wsłuchany w ciszę. Czuł w niej wszystko, co znał od dziecka: zapach ziemi po nocnej rosie, pomruk bydła w zagrodzie, znajomy skrzyp starej bramy od strony pola. Znał tę ziemię na wylot — każdą grudę, każde płytkie miejsce przy wschodnim ogrodzeniu, gdzie po deszczu stała woda. Uczył się jej od dziecka, razem z ojcem, krok za krokiem.
@@ -42,7 +49,9 @@ Natan patrzył za nim przez chwilę, potem wrócił do pracy. Praca była praca.
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">II</h3>
+
+<h4 align="center">Joram</h4>
 
 
 
@@ -85,7 +94,9 @@ Joram i Eliab zostali sami przez chwilę. Ojciec nie powiedział nic więcej. Jo
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">III</h3>
+
+<h4 align="center">Natan</h4>
 
 
 
@@ -104,7 +115,9 @@ Brat ruszył drogą i zniknął za zakrętem. Natan odczekał, aż kurz opadnie.
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">IV</h3>
+
+<h4 align="center">Joram</h4>
 
 
 
@@ -137,7 +150,9 @@ Joram odwzajemnił skinięcie i poszedł dalej. Dopiero na rogu ulicy zatrzymał
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">V</h3>
+
+<h4 align="center">Natan</h4>
 
 
 
@@ -162,7 +177,9 @@ Nie powiedział tego nikomu. Następnego ranka zabrał się do pracy wcześniej 
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">VI</h3>
+
+<h4 align="center">Joram</h4>
 
 
 
@@ -199,7 +216,9 @@ Ale obrazy przychodziły coraz częściej.
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">VII</h3>
+
+<h4 align="center">Natan</h4>
 
 
 
@@ -228,7 +247,9 @@ Ale słowa wracały przez cały dzień. Chanan powiedział dokładnie to, o czym
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">VIII</h3>
+
+<h4 align="center">Joram</h4>
 
 
 
@@ -259,7 +280,9 @@ Droga była długa. Nogi bolały, buty sprzedał dawno temu. Szedł i nie myśla
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">IX</h3>
+
+<h4 align="center">Natan</h4>
 
 
 
@@ -274,7 +297,9 @@ Poszedł w pole.
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">X</h3>
+
+<h4 align="center">Joram</h4>
 
 
 
@@ -307,7 +332,9 @@ Eliab wziął go za ramię i poprowadził do domu. Sąsiedzi widzieli tylko ojca
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">XI</h3>
+
+<h4 align="center">Natan</h4>
 
 
 
@@ -324,7 +351,9 @@ Ruszył w stronę domu. Szedł powoli i jeszcze nie wiedział, co zrobi, gdy dot
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">XII</h3>
+
+<h4 align="center">Joram</h4>
 
 
 
@@ -343,7 +372,9 @@ Usiedli do stołu. Ktoś przyniósł mięso, chleb, wino. Goście rozmawiali, kt
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">XIII</h3>
+
+<h4 align="center">Natan</h4>
 
 
 
@@ -380,7 +411,9 @@ Za drzwiami ktoś znowu się śmiał. Natan nie ruszył się z miejsca.
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">XIV</h3>
+
+<h4 align="center">Joram</h4>
 
 
 
@@ -401,7 +434,9 @@ Siedział i jadł dalej. Ale smak był już inny.
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">XV</h3>
+
+<h4 align="center">Natan</h4>
 
 
 
@@ -442,7 +477,9 @@ Stali razem przed drzwiami. Z wewnątrz dochodziła muzyka. Natan nie wszedł od
 
 
 
-<h3 align="center">✦ &nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp; ✦</h3>
+<h3 align="center">XVI</h3>
+
+<h4 align="center">Joram</h4>
 
 
 
