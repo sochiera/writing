@@ -45,9 +45,7 @@ Wziął kij i poszedł w stronę domu.
 
 Natan patrzył za nim przez chwilę, potem wrócił do pracy. Praca to praca i zawsze było co robić.
 
-
-
-
+---
 
 <h3 align="center">II</h3>
 
@@ -90,9 +88,7 @@ Malchus zabrał tabliczki i wyszedł bez słowa.
 
 Gdy Joram i Eliab zostali na chwilę sami, ojciec nie powiedział nic więcej; Joram też nie.
 
-
-
-
+---
 
 <h3 align="center">III</h3>
 
@@ -111,9 +107,7 @@ Natan stał z daleka, przy ogrodzeniu, i patrzył. Joram nie podszedł do niego 
 
 Brat ruszył drogą i zniknął za zakrętem. Natan odczekał, aż kurz opadnie. Potem wziął motykę i wrócił do pracy. Co innego miał zrobić.
 
-
-
-
+---
 
 <h3 align="center">IV</h3>
 
@@ -146,9 +140,7 @@ Pewnego ranka zobaczył jedną z kobiet na targu; szła z kimś innym, rozmawia�
 
 Joram odwzajemnił skinięcie i poszedł dalej. Dopiero na rogu ulicy zatrzymał się i stał przez chwilę, nie bardzo wiedząc, dokąd idzie.
 
-
-
-
+---
 
 <h3 align="center">V</h3>
 
@@ -173,9 +165,7 @@ Tak to czuł. Może się mylił, ale czuł to wyraźnie: że ojciec tęskni za t
 
 Nie powiedział tego nikomu i następnego ranka zabrał się do pracy wcześniej niż zwykle.
 
-
-
-
+---
 
 <h3 align="center">VI</h3>
 
@@ -212,9 +202,7 @@ Ale gdzieś w tej monotonii i głodzie zaczęły mu się pojawiać myśli, któr
 
 Ale obrazy przychodziły coraz częściej.
 
-
-
-
+---
 
 <h3 align="center">VII</h3>
 
@@ -243,9 +231,7 @@ Natan nie odpowiedział. Wziął swój dzban i poszedł.
 
 Ale słowa wracały przez cały dzień. Chanan powiedział dokładnie to, o czym Natan starał się nie myśleć — i nie miało znaczenia, czy zrobił to z troski, czy z czystej ciekawości. Efekt był ten sam.
 
-
-
-
+---
 
 <h3 align="center">VIII</h3>
 
@@ -276,9 +262,7 @@ Mówił to sobie szczerze. Nie wracał po łaskę — wracał, bo nie miał gdzi
 
 Droga była długa. Nogi bolały, buty sprzedał dawno temu. Szedł i nie myślał o tym, jak go przyjmą — bo gdyby o tym myślał, zawróciłby. Myślał tylko o następnym kroku.
 
-
-
-
+---
 
 <h3 align="center">IX</h3>
 
@@ -293,9 +277,7 @@ Przy bramie siedział ojciec. Jak zawsze o tej porze, twarzą w stronę drogi. N
 
 Poszedł w pole.
 
-
-
-
+---
 
 <h3 align="center">X</h3>
 
@@ -328,9 +310,7 @@ Czekał na pytania — o pieniądze, o czas, o to, co robił. Nie nadchodziły.
 
 Eliab wziął go za ramię i poprowadził do domu. Sąsiedzi widzieli tylko ojca i syna idących razem. Nikt nie wyjął garnka.
 
-
-
-
+---
 
 <h3 align="center">XI</h3>
 
@@ -347,9 +327,7 @@ Natan wyprostował się i przez chwilę stał bez ruchu. Poczuł coś, czego si�
 
 Ruszył w stronę domu, szedł powoli i jeszcze nie wiedział, co zrobi, gdy dotrze do drzwi.
 
-
-
-
+---
 
 <h3 align="center">XII</h3>
 
@@ -368,9 +346,7 @@ Wcześniej bał się, że zostanie jako dłużnik, że będą go wytykać palcam
 
 Usiedli do stołu. Ktoś przyniósł mięso, chleb i wino; goście rozmawiali, ktoś się śmiał, a Joram jadł i słyszał wszystko jak przez ścianę.
 
-
-
-
+---
 
 <h3 align="center">XIII</h3>
 
@@ -405,9 +381,7 @@ Czuł gniew i żal. Nie do brata — do ojca. Czuł się oszukany i niedoceniany
 
 Za drzwiami ktoś znowu się śmiał. Natan nie ruszył się z miejsca.
 
-
-
-
+---
 
 <h3 align="center">XIV</h3>
 
@@ -428,9 +402,7 @@ Po raz pierwszy od powrotu pomyślał o bracie. Aż do tej chwili myślał tylko
 
 Siedział i jadł dalej. Ale smak był już inny.
 
-
-
-
+---
 
 <h3 align="center">XV</h3>
 
@@ -471,9 +443,7 @@ Natan słuchał już inaczej. *Brat twój.* Sam przed chwilą mówił "ten twój
 
 Stali razem przed drzwiami. Z wnętrza dochodziła muzyka. Natan nie wszedł od razu, ale już wiedział, że wejdzie.
 
-
-
-
+---
 
 <h3 align="center">XVI</h3>
 
