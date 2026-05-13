@@ -84,7 +84,7 @@ Malchus był przy tym wszystkim: siedział z boku ze swoimi tabliczkami i notowa
 
 <p align="center">*  *  *</p>
 
-Podział trwał kilka dni. Kiedy skończyłi, Joram stał przed stosem dokumentów i kluczy do spichlerza, który teraz należał do niego. Był bogatszy, niż kiedykolwiek w życiu.
+Podział trwał kilka dni. Kiedy skończyli, Joram stał przed stosem dokumentów i kluczy do spichlerza, który teraz należał do niego. Był bogatszy niż kiedykolwiek w życiu.
 
 Malchus zabrał tabliczki i wyszedł bez słowa.
 
@@ -322,7 +322,7 @@ Joram zebrał się w sobie i zaczął mówić to, co powtarzał przez całą dro
 
 Eliab uciszył go pocałunkiem w czoło. Nie dał mu dokończyć.
 
-Joram poczuł dwie rzeczy naraz: że nie zasłużył na to, co właśnie dostaje — i że jest kochany. Nie jedno albo drugie. Oboje razem. Nie wiedział, co z tym zrobić.
+Joram poczuł dwie rzeczy naraz: że nie zasłużył na to, co właśnie dostaje — i że jest kochany. Nie jedno albo drugie. Jedno i drugie naraz. Nie wiedział, co z tym zrobić.
 
 Czekał na pytania — o pieniądze, o czas, o to, co robił. Nie nadchodziły.
 
@@ -441,7 +441,7 @@ Siedział i jadł dalej. Ale smak był już inny.
 
 Natan stał przed drzwiami, gdy te się otworzyły, a z domu wyszedł Eliab.
 
-Według zwyczaju to syn miał przyjść do ojca — nie odwrotnie. Jednak Eliab tego dnia znów wychodził — tym razem do starszego syna. Zamknął za sobą drzwi, jakby chciał odgrodzić ich oboje od muzyki. Stał chwilę i patrzył na Natana. Nie powiedział od razu nic.
+Według zwyczaju to syn miał przyjść do ojca — nie odwrotnie. Jednak Eliab tego dnia znów wychodził — tym razem do starszego syna. Zamknął za sobą drzwi, jakby chciał odgrodzić ich obu od muzyki. Stał chwilę i patrzył na Natana. Nie powiedział od razu nic.
 
 — Wejdź — powiedział w końcu. — Proszę cię.
 
@@ -469,7 +469,7 @@ Coś w Natanie zaczęło ustępować. Przez dwa lata wierzył, że musi być dob
 
 Natan słuchał już inaczej. *Brat twój.* Sam przed chwilą mówił "ten twój syn", a ojciec mówił "brat". Sprawa była przesądzona.
 
-Stali razem przed drzwiami. Z wewnątrz dochodziła muzyka. Natan nie wszedł od razu, ale już wiedział, że wejdzie.
+Stali razem przed drzwiami. Z wnętrza dochodziła muzyka. Natan nie wszedł od razu, ale już wiedział, że wejdzie.
 
 
 
