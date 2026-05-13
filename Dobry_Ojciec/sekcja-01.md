@@ -8,7 +8,7 @@ Natan poszedł dalej, w stronę pola.
 
 ---
 
-W tamtych czasach dom był czymś więcej niż budynkiem. Był wspólnotą: ziemia, rodzina, słudzy i najemnicy — wszyscy razem, jedno gospodarstwo, jeden los. Praca na rzecz rodziny nie była tylko obowiązkiem. Była tożsamością. Mówiła, kim jesteś i skąd pochodzisz. Syn, który wstaje o świcie i bierze się do roboty — taki syn wiedział, czym jest lojalność.
+W tamtych czasach dom był czymś więcej niż budynkiem. Był wspólnotą: ziemia, rodzina, słudzy i najemnicy — wszyscy razem, jedno gospodarstwo, jeden los. Praca na rzecz rodziny nie była tylko obowiązkiem — była tożsamością, mówiła, kim jesteś i skąd pochodzisz. Syn, który wstaje o świcie i bierze się do roboty — taki syn wiedział, czym jest lojalność.
 
 Natan był z tego dumny. Naprawdę. Miłość do ojca i do tej ziemi była w nim głęboka i autentyczna — nie odgrywana, nie wymuszona. Ale gdzieś pod spodem, na samym dnie, leżało coś, co Natan rzadko oglądał wprost: przekonanie, że miłość ojca trzeba zdobywać. Że każdy dobrze przepracowany dzień to kolejna cegiełka. Że jeśli ich zbierze dość, jeśli nie popełni błędów, jeśli będzie wystarczająco dobry — wtedy będzie pewny. Wtedy będzie bezpieczny.
 
@@ -34,4 +34,4 @@ Natan widział to spojrzenie. Widział je już od jakiegoś czasu i nie bardzo w
 
 Wziął kij i poszedł w stronę domu.
 
-Natan patrzył za nim przez chwilę, potem wrócił do pracy. Praca była praca. Zawsze było co robić.
+Natan patrzył za nim przez chwilę, potem wrócił do pracy. Praca to praca i zawsze było co robić.

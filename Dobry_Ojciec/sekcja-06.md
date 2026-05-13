@@ -1,8 +1,8 @@
 Głód przyszedł nagle i bez ostrzeżenia — jednego dnia targowiska były pełne, następnego dnia ceny nagle skoczyły — a kupujący i tak wykupywali wszystko, co zostało, więc towary znikały szybciej niż rosły ceny, aż w końcu nie było czego kupować. Głód uderzył w całą okolicę. Biednych zostawił bez niczego, bogatych — z coraz mniejszą ilością tego, co mieli.
 
-Resztki srebra Jorama starczyły na krótko. Właściciel izby przepędził go, gdy przestał płacić — bez złości, po prostu tak działały interesy. Joram zabrał to, co miał, i wyszedł na ulicę.
+Resztki srebra Jorama starczyły na krótko. Gdy przestał płacić, właściciel izby przepędził go bez złości, bo tak po prostu działały interesy; Joram zabrał to, co miał, i wyszedł na ulicę.
 
-Przez kilka dni nic nie jadł. Szukał pracy. Znajomi — ci, którzy jeszcze pamiętali jego imię — rozkładali ręce. Sami mieli kłopoty. Miasto, które rok temu wydawało się pełne możliwości, teraz wyglądało zupełnie inaczej: ciasne, obce, nieprzychylne.
+Przez kilka dni nic nie jadł i szukał pracy, ale znajomi — ci, którzy jeszcze pamiętali jego imię — rozkładali ręce, bo sami mieli kłopoty. Miasto, które rok temu wydawało się pełne możliwości, teraz wyglądało zupełnie inaczej: ciasne, obce, nieprzychylne.
 
 ---
 
@@ -18,7 +18,7 @@ Pewnego dnia był tak głodny, że przez chwilę patrzył na strąki, którymi k
 
 ---
 
-Joram nie myślał o ojcu. Nie dlatego, że o nim zapomniał — ale dlatego, że myśl o ojcu kosztowała za dużo. Żeby o nim myśleć, trzeba było sobie uświadomić, co się zrobiło. A to było dla niego za wiele.
+Joram nie myślał o ojcu. Nie dlatego, że o nim zapomniał, ale dlatego, że myśl o ojcu kosztowała za dużo: żeby o nim myśleć, trzeba było sobie uświadomić, co się zrobiło, a to było dla niego za wiele.
 
 Więc nie myślał. Wstawał, szedł do świń, wracał, zasypiał. I zaczynał od nowa.
 

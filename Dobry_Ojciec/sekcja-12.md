@@ -6,4 +6,4 @@ Joram stał i patrzył, jak słudzy się krzątają. Wiedział, co znaczy każdy
 
 Wcześniej bał się, że zostanie jako dłużnik, że będą go wytykać palcami. Teraz ojciec rozbrajał te lęki jeden po drugim.
 
-Usiedli do stołu. Ktoś przyniósł mięso, chleb, wino. Goście rozmawiali, ktoś się śmiał. Joram jadł i słyszał wszystko jak przez ścianę.
+Usiedli do stołu. Ktoś przyniósł mięso, chleb i wino; goście rozmawiali, ktoś się śmiał, a Joram jadł i słyszał wszystko jak przez ścianę.

@@ -10,6 +10,6 @@ I nie rozumiał.
 
 Natan myślał o tym wieczorami. Joram odszedł sam z siebie — wziął swoje i pojechał, nie oglądając się za siebie, nie żegnając się z nim. A ojciec siedział przy bramie i patrzył w dal, jakby Joram zabrał ze sobą połowę jego serca. Natan wstawał przed świtem, pilnował robotników, rozmawiał z Malchusem o zbiorach, podejmował decyzje, które kiedyś należały do ojca. Robił to wszystko i był tu każdego dnia — i coraz częściej łapał się na myśli, której się wstydził: że może warto było wyjechać.
 
-Tak to czuł. Może się mylił. Ale czuł to wyraźnie: że ojciec tęskni za tym, który odszedł, mocniej niż ceni tego, który został.
+Tak to czuł. Może się mylił, ale czuł to wyraźnie: że ojciec tęskni za tym, który odszedł, mocniej niż ceni tego, który został.
 
-Nie powiedział tego nikomu. Następnego ranka zabrał się do pracy wcześniej niż zwykle.
+Nie powiedział tego nikomu i następnego ranka zabrał się do pracy wcześniej niż zwykle.

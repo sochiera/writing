@@ -1,10 +1,10 @@
-Joram siedział przy stole, ale jadł powoli. Wciąż czekał.
+Joram siedział przy stole, jadł powoli i wciąż czekał.
 
 Drzwi się otworzyły.
 
 Wszedł Eliab. Za nim — Natan.
 
-Joram wstał. Stanął naprzeciw brata. Goście zamilkli.
+Joram wstał i stanął naprzeciw brata; goście zamilkli.
 
 Natan patrzył na niego długo.
 

@@ -1,4 +1,4 @@
-Natan stał przed drzwiami, gdy te się otworzyły. Wyszedł Eliab.
+Natan stał przed drzwiami, gdy te się otworzyły, a z domu wyszedł Eliab.
 
 Według zwyczaju to syn miał przyjść do ojca — nie odwrotnie. Jednak Eliab tego dnia znów wychodził — tym razem do starszego syna. Zamknął za sobą drzwi, jakby chciał odgrodzić ich oboje od muzyki. Stał chwilę i patrzył na Natana. Nie powiedział od razu nic.
 
@@ -10,7 +10,7 @@ Natan zacisnął zęby. Wszystko, co w nim wzbierało przez wieczór, naraz wybu
 
 — A teraz wrócił ten twój syn. Ty kazałeś zarżnąć dla niego tuczne cielę, a on przepuścił twój majątek z dziwkami.
 
-Sam nie wiedział, czy to prawda. Powiedział to z wściekłości.
+Sam nie wiedział, czy to prawda; powiedział to z wściekłości.
 
 Cisza. Eliab nie odpowiedział od razu.
 
@@ -26,6 +26,6 @@ Coś w Natanie zaczęło ustępować. Przez dwa lata wierzył, że musi być dob
 
 — Trzeba — powiedział Eliab cicho. — Trzeba się cieszyć. Brat twój był umarły, a znów żyje. Zaginął, a odnalazł się.
 
-Natan słuchał już inaczej. *Brat twój.* Sam przed chwilą mówił "ten twój syn". Ojciec mówił "brat". Sprawa była przesądzona.
+Natan słuchał już inaczej. *Brat twój.* Sam przed chwilą mówił "ten twój syn", a ojciec mówił "brat". Sprawa była przesądzona.
 
-Stali razem przed drzwiami. Z wewnątrz dochodziła muzyka. Natan nie wszedł od razu. Ale już wiedział, że wejdzie.
+Stali razem przed drzwiami. Z wewnątrz dochodziła muzyka. Natan nie wszedł od razu, ale już wiedział, że wejdzie.

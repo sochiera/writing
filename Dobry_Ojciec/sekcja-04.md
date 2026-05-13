@@ -2,7 +2,7 @@ Miasto, do którego dotarł Joram, było większe niż cokolwiek, co dotąd widz
 
 Przez pierwsze tygodnie Joram po prostu żył. Wynajął izbę z oknem na rynek, jadał w karczmach, chodził na targi bez celu. Robił rzeczy, których w domu by nie zrobił — nie dlatego, że były złe, ale dlatego, że w domu zawsze było coś ważniejszego do zrobienia. Tu nie było. Tu mógł wstać, kiedy chciał, i zjeść śniadanie, gdy słońce było już wysoko.
 
-Czuł się wolny. Naprawdę wolny, pierwszy raz w życiu. Tego uczucia się nie spodziewał.
+Czuł się wolny — naprawdę wolny, pierwszy raz w życiu — i tego uczucia się nie spodziewał.
 
 ---
 
@@ -10,14 +10,14 @@ Z czasem zaczął wydawać więcej. Nie dlatego, że chciał się popisać — p
 
 Wokół kręcili się ludzie, którym było z nim dobrze. Śmiali się razem do późna, mówili mu, że jest kimś, że cieszą się, że przyjechał. Joram wierzył w to szczerze. Nie udawał — naprawdę czuł, że wreszcie ma ludzi, którym na nim zależy.
 
-Worek powoli zaczynał się kurczyć. Joram to widział i odkładał tę myśl na bok. Mówił sobie, że jeszcze jest dość. Że coś wymyśli, jak przyjdzie czas. Że nie ma co się spinać z wyprzedzeniem.
+Worek powoli zaczynał się kurczyć, a Joram odkładał tę myśl na bok. Mówił sobie, że jeszcze jest dość, że coś wymyśli, jak przyjdzie czas, i że nie ma co się spinać z wyprzedzeniem.
 
 Ale miesiące mijały, a srebra było coraz mniej. Wieczorami, gdy nikt nie patrzył, liczył, ile mu zostało i na ile to jeszcze wystarczy — i za każdym razem układał w głowie jakiś plan. Mówił sobie, że mógłby handlować tkaninami — zna już tu dość ludzi. Albo że warto zainwestować w jeden dobry transport towarów z południa, jeden raz, żeby odrobić straty. Plany były konkretne i szczegółowe, i żaden z nich nigdy nie wyszedł poza wieczór, w którym go wymyślił. Rano wstawał, wychodził na miasto i wszystko wyglądało tak samo jak wcześniej — więc jakoś szło, jakoś się kręciło, i Joram mówił sobie, że jeszcze chwila.
 
 Aż pewnego dnia suma, którą policzył wieczorem, była na tyle mała, że przestał układać plany. Zostało mu tyle, żeby przeżyć — i niewiele więcej.
 
-Potem zaczął wychodzić rzadziej. W głowie tłumaczył to sobie gorszym humorem, potrzebą odpoczynku. Ale tak naprawdę coraz trudniej było mu udawać przed samym sobą, że wszystko jest pod kontrolą — że wciąż jest tym samym człowiekiem, który przyjechał tu rok temu. Znajomi wciąż go zapraszali, a on odmawiał albo przychodził późno i wychodził wcześnie.
+Potem zaczął wychodzić rzadziej, tłumacząc to sobie w głowie gorszym humorem i potrzebą odpoczynku. Ale tak naprawdę coraz trudniej było mu udawać przed samym sobą, że wszystko jest pod kontrolą — że wciąż jest tym samym człowiekiem, który przyjechał tu rok temu. Znajomi wciąż go zapraszali, a on odmawiał albo przychodził późno i wychodził wcześnie.
 
-Pewnego ranka zobaczył jedną z kobiet na targu. Szła z kimś innym — rozmawiała, śmiała się, miała na sobie nową bransoletkę. Kiedy spojrzenia się spotkały, skinęła mu głową. Uprzejmie. Tak, jak kiwa się głową znajomemu, którego się ledwo pamięta.
+Pewnego ranka zobaczył jedną z kobiet na targu; szła z kimś innym, rozmawiała, śmiała się, miała na sobie nową bransoletkę. Kiedy spojrzenia się spotkały, skinęła mu głową. Uprzejmie. Tak, jak kiwa się głową znajomemu, którego się ledwo pamięta.
 
 Joram odwzajemnił skinięcie i poszedł dalej. Dopiero na rogu ulicy zatrzymał się i stał przez chwilę, nie bardzo wiedząc, dokąd idzie.

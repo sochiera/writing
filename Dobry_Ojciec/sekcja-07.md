@@ -1,8 +1,8 @@
 Minął rok, może trochę więcej.
 
-Przejął część obowiązków, które wcześniej należały do ojca — rozmawiał z kupcami, decydował o siewie, rozwiązywał spory między robotnikami. Jedno tylko Eliab zostawił sobie: pilnował, żeby najemnicy mieli co jeść. Chodził do nich sam, wieczorami, sprawdzał. Natan nigdy nie wiedział, dlaczego akurat to ojciec robi osobiście. Nie pytał.
+Przejął część obowiązków, które wcześniej należały do ojca — rozmawiał z kupcami, decydował o siewie, rozwiązywał spory między robotnikami. Jedno tylko Eliab zostawił sobie: pilnował, żeby najemnicy mieli co jeść. Chodził do nich sam, wieczorami, i sprawdzał. Natan nigdy nie wiedział, dlaczego akurat to ojciec robi sam, ale nie pytał.
 
-Natanowi odpowiadało, że tyle na nim spoczywa. Nie przyznawał się do tego głośno, ale lubił. Znaczyło to dla niego coś ważnego: ojciec mu ufa. Ojciec go widzi. Każde nowe zadanie było dla niego czymś więcej niż pracą — było dowodem, że jest potrzebny, że zasługuje na to miejsce, które zajmuje.
+Natanowi odpowiadało, że tyle na nim spoczywa. Nie przyznawał się do tego głośno, ale lubił to, bo znaczyło to dla niego coś ważnego: ojciec mu ufa. Ojciec go widzi. Każde nowe zadanie było dla niego czymś więcej niż pracą — było dowodem, że jest potrzebny, że zasługuje na to miejsce, które zajmuje.
 
 Nie przychodziło mu do głowy, że ojciec mu ufa nie dlatego, że na to zapracował — ale dlatego, że go kocha.
 

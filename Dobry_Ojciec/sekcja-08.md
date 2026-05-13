@@ -2,7 +2,7 @@ Tej nocy przyśnił mu się dom — nie jako całość, ale w urywkach: stół, 
 
 Leżał i nie wstawał. Najemnicy ojca — ludzie bez ziemi i bez nazwiska, z samego dołu drabiny — mają chleb. On, syn Eliaba, leży w obcym kraju i nie wie, czy dzisiaj będzie miał co jeść.
 
-Ta myśl nie odpuściła. Po raz pierwszy od miesięcy spojrzał na siebie uczciwie.
+Ta myśl nie odpuściła i po raz pierwszy od miesięcy spojrzał na siebie uczciwie.
 
 ---
 

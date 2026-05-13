@@ -1,6 +1,4 @@
-Natan usłyszał muzykę, zanim doszedł do bramy. Zatrzymał się.
-
-Zatrzymał pierwszego napotkanego sługę.
+Natan usłyszał muzykę, zanim doszedł do bramy. Zatrzymał pierwszego napotkanego sługę.
 
 — Co tam się dzieje?
 
@@ -22,6 +20,6 @@ Przez te dwa lata ojciec siadał wieczorami przy bramie i patrzył w stronę dro
 
 Teraz wiedział, że ojciec się doczekał. I że jest z tego szczęśliwy tak, jak nigdy nie był z żadnej pracy, którą Natan dla niego zrobił.
 
-Czuł gniew. I żal. Nie do brata — do ojca. Czuł się oszukany. Niedoceniany. Przez dwa lata pracował i ani razu nie zobaczył w ojcu takiej radości jak teraz.
+Czuł gniew i żal. Nie do brata — do ojca. Czuł się oszukany i niedoceniany: przez dwa lata pracował i ani razu nie zobaczył w ojcu takiej radości jak teraz.
 
 Za drzwiami ktoś znowu się śmiał. Natan nie ruszył się z miejsca.

@@ -2,7 +2,7 @@ Natan widział każdego kupca, który przychodził do brata. Przez kilka dni Jor
 
 Natan milczał. Nie płakał, nie krzyczał. Nauczył się nie pokazywać bólu — nie wiedział nawet, kiedy się tego nauczył. Zamiast tego pracował więcej. Ból zamieniał w robotę, a robotę zostawiał w polu.
 
-Dzień odjazdu nadszedł szybko. Joram pożegnał ojca przy bramie. Eliab trzymał go za ramiona przez chwilę, dłużej niż zwykle.
+Dzień odjazdu nadszedł szybko. Joram pożegnał ojca przy bramie, a Eliab trzymał go za ramiona przez chwilę, dłużej niż zwykle.
 
 Natan stał z daleka, przy ogrodzeniu, i patrzył. Joram nie podszedł do niego — albo zapomniał, albo nie odważył się.
 
