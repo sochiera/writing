@@ -2,17 +2,13 @@
 
 ## 5 października 2026
 
-Miałem bardzo ciekawy sen. Jakbym oglądał film. Nie wiem, czy byłem jego bohaterem, czy tylko patrzyłem z boku.
+Miałem ciekawy sen, jakbym oglądał film. Młody człowiek spędzał wakacje w wielkim hotelu. Został okradziony, trafił na szajkę, był świadkiem zabójstwa policjantów. Próbował ukryć pieniądze i wezwać pomoc.
 
-Młody człowiek spędzał wakacje w wielkim hotelu pełnym młodych ludzi. Ktoś go okradł. Próbował rozwikłać zagadkę, a potem zobaczył z daleka, jak policjanci odnajdują złodzieja. Okazało się jednak, że działa tam cała szajka. Policjanci zostali zabici. Bohater próbował ukryć resztę pieniędzy i zawiadomić policję.
+Nagle okazało się, że nie jest młody i nie jest na wakacjach. To dom starców, a on cierpi na demencję. Młodzi ludzie z hotelu to w rzeczywistości starsi mieszkańcy i personel. Te same twarze, zupełnie inny świat. Jego działania też znaczyły coś innego, niż mu się wydawało.
 
-I wtedy wszystko się odwróciło. On wcale nie był młody ani nie przebywał w hotelu na wakacjach. Był starszym człowiekiem w domu starców. Cierpiał na jakąś chorobę, może demencję. To, co przeżywał jako sensacyjną historię, było jego sposobem widzenia tego, co naprawdę robił i co działo się wokół niego. Dziwne reakcje innych ludzi nagle stawały się zrozumiałe: oni widzieli jego zachowanie, nie wydarzenia, w których uczestniczył we własnym świecie.
+Przez chwilę rozumiał, gdzie jest. Rozpoznał pielęgniarkę, zawołał ją po imieniu, przeprosił i podziękował. Chciał zdążyć, póki jeszcze potrafił. Potem znowu wracał do hotelu i tamtych ludzi.
 
-Najmocniejsze było rozpoznanie tych samych twarzy. Młodzi ludzie z hotelu okazali się starszymi mieszkańcami ośrodka albo jego personelem. Przez chwilę zobaczył ich takimi, jakimi byli naprawdę. Rozpoznał pielęgniarkę, zwrócił się do niej po imieniu. Przeprosił i podziękował — chciał zdążyć, póki jeszcze rozumiał, co się dzieje. Miał też chwilę na rozmowę z bliskimi. Potem znowu zaczynał wracać do tamtego świata i tamtych ludzi.
-
-Zostało po tym śnie mocne uczucie. Jak to jest wierzyć w to, co nam się wydaje, a nie w to, co jest naprawdę? I na moment zobaczyć, że nasze własne działania miały zupełnie inny sens, niż sądziliśmy?
-
-To odwrócenie było straszne. Ale ta krótka chwila, w której mógł kogoś rozpoznać, przeprosić i podziękować, była oczyszczająca. Takie katharsis.
+Straszne było to przebudzenie. A jednak chwila, w której mógł kogoś rozpoznać i podziękować, przyniosła oczyszczenie. Takie katharsis.
 
 ## 23 września 2026
 
