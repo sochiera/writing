@@ -1,5 +1,15 @@
 # Mikroblog 2026
 
+## 8 października 2026
+
+Wokulski o sprawiedliwości:
+
+> „Sprawiedliwym jest to, że silni mnożą się i rosną, a słabi giną. Inaczej świat stałby się domem inwalidów, co dopiero byłoby niesprawiedliwością.”
+
+Słowa Stanisława Wokulskiego z *Lalki* Bolesława Prusa, wypowiedziane w rozmowie z Ignacym Rzeckim o polityce mocarstw.
+
+[Źródło: Bolesław Prus, *Lalka*, tom I, rozdział IV — „Powrót” (Wolne Lektury)](https://wolnelektury.pl/katalog/lektura/lalka-tom-pierwszy.html#f314)
+
 ## 23 września 2026
 
 > „Nie sądźcie, że przyszedłem pokój przynieść na ziemię. Nie przyszedłem przynieść pokoju, ale miecz”.
