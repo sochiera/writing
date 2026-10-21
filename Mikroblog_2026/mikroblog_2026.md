@@ -8,6 +8,8 @@ Moim zdaniem rząd wykorzystuje sytuację, żeby nakręcać panikę, odwracać u
 
 Mnie to wkurza, bo utrudnia mi teraz życie. Odwożę córkę na zajęcia, nie mogę się spóźnić, nie mogę jej pomóc i muszę czekać na dworze.
 
+Jeśli w szkole jest tylko pani prowadząca zajęcia pozalekcyjne i grupa małych dziewczynek, to jest to dużo mniej bezpieczne miejsce, niż gdyby czekali tam tatusiowie na swoje córki. Mogliby obezwładnić napastnika.
+
 ## 8 października 2026
 
 Wokulski o sprawiedliwości:
