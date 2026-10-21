@@ -2,7 +2,9 @@
 
 ## 21 października 2026
 
-Po tych dwóch atakach w szkołach 7 i 8 października zaczęto mówić o „serii ataków”, a niektóre szkoły wprowadziły nawet zakazy wstępu dla rodziców. Tylko że to były dwa osobne zdarzenia, a drugie mogło być efektem medialnego nagłośnienia pierwszego.
+Dowiedziałem się, że szkoła, w której moja córka ma zajęcia pozalekcyjne, ma teraz nowe przepisy. Pani otwiera drzwi o konkretnej godzinie i wszystkie dzieci wchodzą naraz same. Potem zamyka drzwi i nie wpuszcza rodziców ani nikogo do środka.
+
+Po tych dwóch atakach w szkołach 7 i 8 października zaczęto mówić o „serii ataków”, a niektóre szkoły wprowadziły nawet takie zakazy. Tylko że to były dwa osobne zdarzenia, a drugie mogło być efektem medialnego nagłośnienia pierwszego.
 
 Moim zdaniem rząd wykorzystuje sytuację, żeby nakręcać panikę, odwracać uwagę od własnych afer i pokazywać swoją skuteczność. Trochę wygląda mi to na próbę wywołania tzw. efektu flagi, czyli jednoczenia społeczeństwa wokół władzy przez poczucie zagrożenia.
 
