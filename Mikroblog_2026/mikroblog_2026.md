@@ -1,5 +1,13 @@
 # Mikroblog 2026
 
+## 21 października 2026
+
+Po tych dwóch atakach w szkołach 7 i 8 października zaczęto mówić o „serii ataków”, a niektóre szkoły wprowadziły nawet zakazy wstępu dla rodziców. Tylko że to były dwa osobne zdarzenia, a drugie mogło być efektem medialnego nagłośnienia pierwszego.
+
+Moim zdaniem rząd wykorzystuje sytuację, żeby nakręcać panikę, odwracać uwagę od własnych afer i pokazywać swoją skuteczność. Trochę wygląda mi to na próbę wywołania tzw. efektu flagi, czyli jednoczenia społeczeństwa wokół władzy przez poczucie zagrożenia.
+
+Mnie to wkurza, bo utrudnia mi teraz życie. Odwożę córkę na zajęcia, nie mogę się spóźnić, nie mogę jej pomóc i muszę czekać na dworze.
+
 ## 8 października 2026
 
 Wokulski o sprawiedliwości:
